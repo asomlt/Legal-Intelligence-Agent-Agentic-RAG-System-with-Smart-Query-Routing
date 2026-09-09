@@ -1,0 +1,13 @@
+google-genai>=2.0.1
+sentence-transformers>=5.4.1
+faiss-cpu>=1.13.2
+langchain>=1.2.18
+langchain-text-splitters>=1.1.2
+PyMuPDF>=1.27.2.3
+python-dotenv>=1.2.2
+numpy>=2.4.4
+torch>=2.11.0
+transformers>=5.8.0
+scikit-learn>=1.8.0
+tqdm>=4.67.3
+pydantic>=2.13.4
